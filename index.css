@@ -1,0 +1,39 @@
+
+
+    body{
+        background-image: url(./plant-wall-with-lush-green-3111542.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .registration-form{
+          width: 800px;
+        margin: 10px auto;
+        border: 2px solid black;
+        border-radius: 15px;
+        font-weight: 600;
+        background-image: url(./hand-painted-watercolor-pastel-sky-background_23-2148902771.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .first-name,.last-name,
+      .email,.mobilenumber,
+      .gender {
+        margin: 16px auto;
+        font-weight: 600;
+        text-align: center;
+      } 
+      .submit {
+        margin-bottom: 30px;
+      }
+      .gender1 {
+        display: flex;
+      }
+      .gender-male {
+        position: relative;
+        right: 7px;
+      }
+      .country {
+        margin: 16px auto;
+        font-weight: 600;
+        text-align: center;
+      }
